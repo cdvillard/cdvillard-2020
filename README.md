@@ -1,4 +1,4 @@
-<div style="width: 70%">
+<div width="70%">
 
 # Charles Villard's 2020 personal website
 
