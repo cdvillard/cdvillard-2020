@@ -14,10 +14,10 @@ Since I built the first version of my personal website, many new technologies ha
 
 I'm hoping to learn a few things while building this. This will be a living list:
 
-[ ] CSS Grid
-[ ] Accessible design
-[ ] Advanced responsive design and layout
-[ ] Service workers and PWAs
+- [ ] CSS Grid
+- [ ] Accessible design
+- [ ] Advanced responsive design and layout
+- [ ] Service workers and PWAs
 
 I'm hoping to blog all of this and keep it going as well. Let's see where this goes.
 
