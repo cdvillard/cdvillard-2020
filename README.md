@@ -1,5 +1,6 @@
 <div style="width: 70%">
-## Charles Villard's 2020 personal website
+
+# Charles Villard's 2020 personal website
 
 ## On why I'm doing this
 
