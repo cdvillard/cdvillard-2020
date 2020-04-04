@@ -1,5 +1,3 @@
-<div width="70%">
-
 # Charles Villard's 2020 personal website
 
 ## On why I'm doing this
@@ -20,5 +18,3 @@ I'm hoping to learn a few things while building this. This will be a living list
 - [ ] Service workers and PWAs
 
 I'm hoping to blog all of this and keep it going as well. Let's see where this goes.
-
-</div>
