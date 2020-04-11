@@ -20,7 +20,7 @@ const addStyleResource = (rule) => {
 };
 
 module.exports = {
-  siteName: "Gridsome",
+  siteName: "Charles Villard",
   plugins: [],
   chainWebpack(config) {
     // Load variables for all vue-files

@@ -12,8 +12,8 @@ import Footer from "./../components/footer";
 export default {
   components: {
     Header,
-    Footer,
-  },
+    Footer
+  }
 };
 </script>
 
@@ -24,24 +24,8 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.5;
-
+  /* width: 100vw; */
   .layout {
-    max-width: 760px;
-    margin: 0 auto;
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-
-  .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 20px;
-    height: 80px;
-  }
-
-  .nav__link {
-    margin-left: 20px;
   }
 }
 </style>
